@@ -1,5 +1,5 @@
 goog.editor.Command
-goog.editor.SeamlessField
+goog.editor.Field
 goog.editor.plugins.BasicTextFormatter
 goog.editor.plugins.EnterHandler
 goog.editor.plugins.HeaderFormatter
